@@ -142,3 +142,10 @@
 {
 	background-color: #000000;
 }
+
+.counter
+{
+	width: 10%;
+	height: 4%;
+	align:right;
+}
